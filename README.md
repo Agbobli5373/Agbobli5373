@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, Student
 --------------------------
 
-As a highly skilled and versatile full-stack web developer, I have a strong foundation in HTML, CSS, and JavaScript, as well as experience with modern frameworks such as React, Next.js, and Express.js. I have also worked with various backend technologies, including PHP and Laravel, and have proficiency in databases such as MySQL and Mongoose. In addition, I am proficient in CMS platforms such as WordPress and have experience with cloud services like Firebase. I am also well-versed in design frameworks such as Bootstrap and Tailwind CSS, which allows me to create visually appealing and responsive websites. With my diverse skill set and ability to adapt to new technologies quickly, I can confidently tackle any web development project thrown my way.
+Highly skilled Backend Developer with 2 years of experience in designing scalable backend systems and implementing CI/CD processes. Proficient in microservices architecture and RESTful API integration. Accomplishments include reducing CI/CD deployment time by 30% using Jenkins and GitLab CI automation and leading backend architecture for a platform servicing 500+ users with TypeScript and NestJS. I am eager to contribute my backend development and CI/CD expertise to Picnic, supporting your mission of designing, testing, and evolving operational processes with a creative and analytical approach.
 
 * ✉️  You can contact me at [agbobliisaac@gmail.com](mailto:agbobliisaac@gmail.com)
 * 🧠  I'm learning Everything on JavaScript and TypeScript
